@@ -1,29 +1,39 @@
 ![logo](https://github.com/KarekarAnup/KarekarAnup/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner_20240517_202937_0000.png)
+
 <h1 align="center">Hi 👋, I'm Anup Karekar</h1>
-<h3 align="center">Turning data into insights, one algorithm at a time.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<h3 align="center">Passionate about Open-Source Astronomy Research and Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karekaranup&label=Profile%20views&color=0e75b6&style=flat" alt="karekaranup" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=KarekarAnup&color=blueviolet)
 
-- 🌱 I’m currently learning **Deep Learning and Artificial Intelligence**
+## 🚀 About Me
+I'm a passionate Data Scientist with a keen interest in open-source astronomy research.
 
-- 👨‍💻 All of my projects are available at [https://github.com/CosmoAK](https://github.com/CosmoAK)
+- 🔭 I’m currently working on **Heart Disease Data Science Project**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 💬 Ask me about **Data Science, Astronomy, OpenCV, and Deep Learning**
+- 📫 How to reach me: [karekaranup11@gmail.com](mailto:karekaranup11@gmail.com)
+- 📝 I regularly write articles on [WordPress](https://anupkarekar.wordpress.com/)
 
-- 📝 I regularly write articles on [https://anupkarekar.wordpress.com/](https://anupkarekar.wordpress.com/)
+## 🛠️ Skills
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis:** Pandas, NumPy, Scipy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
+- **Image Processing:** OpenCV
+- **Database Management:** MySQL, PostgreSQL
+- **Tools:** Git, Jupyter, VS Code
 
-- 📫 How to reach me **karekaranup11@gmail.com**
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupkarekar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/starlit_scribbles)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/starlit-scribbles)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/starlit_scribbles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starlit_scribbles" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/starlit scribbles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="starlit scribbles" height="30" width="40" /></a>
-</p>
+## 📈 GitHub Stats
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarekarAnup&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarekarAnup&layout=compact&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karekaranup&show_icons=true&locale=en&layout=compact" alt="karekaranup" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karekaranup&show_icons=true&locale=en" alt="karekaranup" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karekaranup&" alt="karekaranup" /></p>
+## 💬 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Post 1](https://anupkarekar.wordpress.com/2023/06/15/post-1)
+- [Post 2](https://anupkarekar.wordpress.com/2023/06/15/post-2)
+<!-- BLOG-POST-LIST:END -->
